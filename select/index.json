@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Confessions",
+  "base_artist": "フロー・ライダー",
+  "createdAt": "2026-03-05T13:59:30.408217Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "True Confessions",
+      "artist": "RJD2",
+      "has_synced": false,
+      "path": "select/01_True_Confessions_RJD2.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Confessions in the Pool",
+      "artist": "ASH",
+      "has_synced": true,
+      "path": "select/02_Confessions_in_the_Pool_ASH.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Confessions of a Fool",
+      "artist": "ABC",
+      "has_synced": true,
+      "path": "select/03_Confessions_of_a_Fool_ABC.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "True Confessions",
+      "artist": "Bananarama",
+      "has_synced": true,
+      "path": "select/04_True_Confessions_Bananarama.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "True Confessions",
+      "artist": "Bananarama",
+      "has_synced": true,
+      "path": "select/05_True_Confessions_Bananarama.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "True Confessions",
+      "artist": "Kenny Loggins",
+      "has_synced": true,
+      "path": "select/06_True_Confessions_Kenny_Loggins.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "True Confessions (Album Version)",
+      "artist": "Kenny Loggins Peter Wolf",
+      "has_synced": true,
+      "path": "select/07_True_Confessions_(Album_Version)_Kenny_Loggins_Peter_Wolf.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Confessions of a Big Brother",
+      "artist": "Arab Strap",
+      "has_synced": true,
+      "path": "select/08_Confessions_of_a_Big_Brother_Arab_Strap.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Confessions",
+      "artist": "City and Colour",
+      "has_synced": true,
+      "path": "select/09_Confessions_City_and_Colour.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Confessions",
+      "artist": "City And Colour",
+      "has_synced": false,
+      "path": "select/10_Confessions_City_And_Colour.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Confessions",
+      "artist": "Peter Murphy",
+      "has_synced": true,
+      "path": "select/11_Confessions_Peter_Murphy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Confessions 1, 2 & 3",
+      "artist": "The Style Council",
+      "has_synced": false,
+      "path": "select/12_Confessions_1,_2_&_3_The_Style_Council.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Confessions Of A Pop-Group",
+      "artist": "The Style Council",
+      "has_synced": false,
+      "path": "select/13_Confessions_Of_A_Pop-Group_The_Style_Council.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Confessions",
+      "artist": "Possessed",
+      "has_synced": true,
+      "path": "select/14_Confessions_Possessed.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Confessions",
+      "artist": "Cannibal Corpse",
+      "has_synced": true,
+      "path": "select/15_Confessions_Cannibal_Corpse.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Confessions of a Serial Killer - Demo",
+      "artist": "Gorefest",
+      "has_synced": false,
+      "path": "select/16_Confessions_of_a_Serial_Killer_-_Demo_Gorefest.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Confessions of A Serial Killer",
+      "artist": "Gorefest",
+      "has_synced": true,
+      "path": "select/17_Confessions_of_A_Serial_Killer_Gorefest.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Confessions",
+      "artist": "Flo Rida, ENHYPEN & Paul Russell",
+      "has_synced": false,
+      "path": "select/pl_01_Confessions_Flo_Rida,_ENHYPEN_&_Paul_Russell.txt"
+    }
+  ]
+}
